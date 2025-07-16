@@ -21,7 +21,7 @@
         <ul>Basics od Networks</ul> 
         <ul>Engineering Designing and Modeling</ul>
         <ul>Completed Abacus Degeree</ul>
-        <ul>Completed Abacus Degeree</ul>
+       
     </ol>
 </h4>
 
