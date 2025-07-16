@@ -4,7 +4,7 @@
     <img src="WhatsApp Image 2025-06-30 at 11.06.34_1f3a262f.jpg",width="200" height="200">
     <div class="about-text">
         <h1>ABOUT ME </h1>
-        <h3>I'm Ashika TR currently pursuing my B.tech in  Saveetha Engineering College and also Working as a full-time intern in Velendev company . </h3>
+        <h3>I'm Ashika TR currently pursuing my B.Tech in  Saveetha Engineering College and also Working as a full-time intern in Velendev company . </h3>
     </div>
 </div>
 
